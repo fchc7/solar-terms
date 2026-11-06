@@ -82,4 +82,6 @@ solar-terms/
 
 ## License
 
-未定。如需使用请自行判断 AI 生成内容的适用范围。
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**CC0 1.0 公共领域贡献**：本图集全部内容已进入公共领域——可复制、修改、分发、商用，**无需署名、无需授权**。详见 [LICENSE](LICENSE)。
