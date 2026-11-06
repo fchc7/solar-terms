@@ -80,6 +80,10 @@ solar-terms/
 
 > ⚠️ **声明**：本图集所有图片均由 AI（GLM-Image）生成，非摄影实拍、非人工手绘。植物形态以文化意象为主，未做严格植物学考证。
 
+## 致谢
+
+- **[vermilion-sketch](https://github.com/Win-Hao/vermilion-sketch)**（by [Win-Hao](https://github.com/Win-Hao)）—— 本图集的画风与创作方法论源自该技能：禅意水墨简笔画（黑色毛笔轮廓线 + 枯笔飞白 + 唯一一点朱砂）、"减法为主、红点唯一"的定稿原则、逐图质检的生成流程。本项目在其基础上适配了 GLM-Image 文生图接口与全透明背景输出。
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
