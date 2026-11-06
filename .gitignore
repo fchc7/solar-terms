@@ -1,0 +1,8 @@
+# 质检过程拼图（仅保留总览）
+contact/*
+!contact/ALL-24-overview.jpg
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
